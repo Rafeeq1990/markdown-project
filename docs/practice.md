@@ -29,3 +29,26 @@ Blockquotes can also be nested by adding two chevrons >> in front of it:
 >> _Everything_  is going to according to **the plan**
 >
 > 
+
+## Links in Markdown
+
+In Markdown, a link is created by enclosing the link text in square brackets, [Link text], and then following it immediately with the URL in parentheses,
+
+My favorite Craigslist category is [Missed Connections](https://website-name.com 'The best place on the internet').
+
+- <https://www.codecademy.com/resources/docs> 
+
+- For more details contact me on my email id: <mrafeeq290@gmail.com>
+
+## Tables
+
+A table is an arrangement of data in rows and columns.
+
+|  Month   |  Saving    |
+|----------|------------|
+| January  |  $250      |
+| February |  $80       |
+| March    |  $420      |
+
+
+
